@@ -102,7 +102,7 @@ For future model training, `window_start`, `window_end`, and `client_ip` should 
 Clone the repository and enter its directory:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AfsarRasool/proxy-server-ml-anomaly-detection
 cd mitacs-proxy-anomaly-detection
 ```
 
